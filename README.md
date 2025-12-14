@@ -37,14 +37,20 @@ DSA Foundations       ██████████░░░░░░░░░�
 Web Development       █████████░░░░░░░░░░░ 40%
 Core CS Subjects      ███████░░░░░░░░░░░░░ 30%
 ---
-## 📊 Learning Progress
+## 📈 Coding Activity
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshansh7488&theme=react-dark&hide_border=true" />
 </p>
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akshansh7488&show_icons=true&theme=react&hide_border=true" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshansh7488&theme=react&hide_border=true" />
 </p>
-
