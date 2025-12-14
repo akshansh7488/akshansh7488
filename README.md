@@ -32,7 +32,6 @@
 ---
 
 ## 📊 Learning Progress
-```text
 DSA Foundations       ██████████░░░░░░░░░░ 45%
 Web Development       █████████░░░░░░░░░░░ 40%
 Core CS Subjects      ███████░░░░░░░░░░░░░ 30%
