@@ -31,25 +31,37 @@
 
 ---
 
-## 📊 Learning Progress
-DSA Foundations       ██████████░░░░░░░░░░ 45%
-Web Development       █████████░░░░░░░░░░░ 40%
-Core CS Subjects      ███████░░░░░░░░░░░░░ 30%
----
-## 📈 Coding Activity
 
+---
+
+## 🌊 Coding Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshansh7488&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshansh7488&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
+## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshansh7488&show_icons=true&theme=react&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=akshansh7488&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akshansh7488&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
+## 🌐 Connect With Me
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshansh7488&theme=react&hide_border=true" />
+  <a href="https://www.linkedin.com/in/akshanksh-vaksh-b08016264/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:akshansh7488@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ <b>Consistency > Motivation</b> <br/>
+  Building every single day 🚀
 </p>
